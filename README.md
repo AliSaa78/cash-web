@@ -6,7 +6,7 @@ CashWeb is a secure and efficient banking RESTful API built with **Node.js**, **
 
 ---
 
-## 🚀 Features
+##  Features
 
 -  User registration and login with password hashing
 -  JWT-based authentication
